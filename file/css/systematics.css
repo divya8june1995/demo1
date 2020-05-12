@@ -1,0 +1,226 @@
+.top-part {
+	background-color:#C30;
+}
+.nav-menu {
+	list-style: none;
+	color:green;
+}
+.nav-menu li {
+	display:inline-block;
+	padding: 7px;
+}
+.nav-menu a {
+	color:white;
+}
+.button {
+    color: red;
+    margin-top: 10px;
+	padding:3px;
+	border:none;
+}
+
+.imga{
+	margin-top: 12px;
+    width: 87%;
+    height: 36%;
+}
+span.search-icon {
+    background-color: #fff;
+    padding: 5px;
+}
+.fa-search {
+	font-size: 20px !important;
+	height: 20px;
+	margin-top: 14px;
+}
+.second-part {
+	padding-top:20px;
+}
+.fa-facebook {
+	border-radius: 50%;
+	border: 2px solid black;
+	font-size: 20px !important;
+	padding: 5px;
+	margin-top: 26px;
+}
+.fa-twitter {
+	border-radius:50%;
+	border:2px solid black;
+	font-size: 20px !important;
+	padding:5px;
+	margin-top: 26px;
+}
+.fa-pinterest {
+	border-radius:50%;
+	border:2px solid black;
+	font-size: 20px !important;
+	padding:5px;
+	margin-top: 26px;
+}
+.fa-google-plus {
+	border-radius:50%;
+	border:2px solid black;
+	font-size: 20px !important;
+	padding:5px;
+	margin-top: 26px;
+}
+.fa-wi-fi {
+	padding-top: 29px;
+	font-size: 20px !important;
+}
+.right {
+	text-align: right;
+	padding-top: 20px;
+}
+.third-part {
+	background-color:black;
+	height: 8%;
+	margin-top: 20px;
+}
+.thrid-nav-menu li {
+	display:inline-block;
+	padding:30px;
+	padding-top:15px;
+}
+.thrid-nav-menu a {
+	color:white;
+}
+.Heading {
+	text-align:center;
+	padding-top: 26px;
+}
+.right2 {
+	text-align:center;
+}
+.read-more {
+	padding-top: 6px;
+	float: right;
+	margin-top: 38px;
+}
+.fifth-part {
+	padding-top:20px;
+}
+.fifth1 {
+}
+.fifth2 {
+	float:center;
+}
+.fifth3 {
+}
+.contentfirst {
+	padding-top:10px;
+}
+.top-content {
+	padding-top:20px;
+	color:#999;
+}
+.top-contents {
+	color:#999;
+}
+.images1 {
+	margin-left: 20px;
+}
+.color {
+	color:#999;
+	text-align: center;
+	margin-top: 1px;
+}
+.pagraphy {
+	color:#999;
+	text-align: center;
+	margin-left: 30px;
+	text-align:justify;
+}
+.TT {
+	padding-top:20px;
+	color:#666;
+}
+.ps {
+	padding-top:20px;
+	color:#666;
+}
+.VTP {
+	padding-top: 4px;
+	float: right;
+	color:red;
+}
+.VAoS {
+	padding-top: 4px;
+	float: right;
+	color:red;
+}
+.RMAU {
+	padding-top: 4px;
+	float: right;
+	color:red;
+}
+
+.imagesd
+{
+	float:left;
+}
+
+.colord
+{
+	    padding-left: 10px;
+    margin-bottom: 3px;	
+	    margin-top: 0px;
+}
+
+.pagraphyd
+{
+	    width:266px;
+    padding-left: 10px;
+}
+.footer1 {
+	padding-top:30px;
+	color:#666;
+	border-top: 2px solid grey;
+}
+.footer2 {
+	padding-top:30px;
+	color:#666;
+	border-top: 2px solid grey;
+}
+.footer3 {
+	padding-top:30px;
+	color:#666;
+	border-top: 2px solid grey;
+}
+.footer4 {
+	padding-top:30px;
+	color:#666;
+	border-top: 2px solid grey;
+}
+.points {
+	padding-top:12px;
+}
+ .footer33 {
+ padding-top:8px;
+}
+.read-more-button {
+	padding-top: 0px;
+	float: right;
+	color:red;
+}
+.PT {
+	padding-top:10px;
+}
+.PT1 {
+	padding-top:30px;
+}
+.admin {
+	padding-top:1px;
+}
+.name {
+	padding-top:12px;
+	color:#999;
+}
+.SUBMITT {
+	margin-top: 30px;
+	float: right;
+	color:red;
+}
+.space {
+	padding-top:30px;
+}
